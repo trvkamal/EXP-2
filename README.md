@@ -1,6 +1,6 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
-# Name : Darshan V
-# Reg No : 212224230050
+# Name : kamalesh v
+# Reg No : 212222240042
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
